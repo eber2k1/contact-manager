@@ -14,7 +14,7 @@ export default function App() {
   }).length;
 
   return (
-    <div style={{ padding: '20px', maxWidth: '500px', margin: '0 auto' }}>
+    <div style={{ padding: '20px', margin: '0 auto' }}>
       <Header />
 
       <p style={{ color: '#666' }}>
